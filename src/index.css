@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* background : linear-gradient(58deg, #6e5eff 0%, #04C8DE 100%) */
+ background-image:url("https://images.unsplash.com/photo-1575203091586-611fe505bb0e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=60") ;
+ background-size: 1000px 700px;
 }
 
 code {
